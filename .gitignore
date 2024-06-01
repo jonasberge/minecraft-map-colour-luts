@@ -1,0 +1,9 @@
+/backups
+/hald-cluts
+__pycache__
+*.cube
+venv
+
+# external repos
+clut
+cluttool
